@@ -1,0 +1,5 @@
+langgraph
+langchain
+langchain-ollama
+supabase
+python-dotenv
